@@ -20,5 +20,11 @@
 # Go workspace file
 go.work
 
-#JetBrains
+# JetBrains
 .idea/
+
+# Others
+target/
+.settings/
+.claspath
+.project
